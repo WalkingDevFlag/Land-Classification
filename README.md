@@ -20,7 +20,9 @@ This project aims to develop a deep learning model for land segmentation using s
 
 The dataset consists of satellite images and their corresponding segmentation masks, organized into images and mask directories. The class definitions are stored in a 'class_dict.csv' file.
 
-I've used the DeepGlobe Land-Cover Dataset
+I've used the DeepGlobe Land-Cover Dataset. I separated the images in the `train` folder into 2 folders, `Images` and `Masks`
+
+Link to the Dataset -> https://www.kaggle.com/datasets/balraj98/deepglobe-land-cover-classification-dataset
 
 
 ## Model Architecture
