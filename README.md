@@ -34,6 +34,12 @@ The code sets up PyTorch Lightning modules for training, validation, and testing
 
 
 ## Usage
+Install these repo:
+```
+!pip install -q git+https://github.com/qubvel/segmentation_models.pytorch
+!pip install -q git+https://github.com/PyTorchLightning/pytorch-lightning
+!pip install -q torchinfo
+```
 Prepare Data:
 - Organize your dataset into the following directories
 ```
