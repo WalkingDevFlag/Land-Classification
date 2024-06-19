@@ -49,10 +49,10 @@ pip install torch torchvision albumentations opencv-python matplotlib numpy pand
 
 
 ## Configuration
-Batch Size: Set the batch size in the batch_size variable.
-Number of Epochs: Set the number of epochs in the max_epochs variable.
-Early Stopping: Set the early stopping patience in the early_stop_callback variable.
-Model Checkpointing: Set the model checkpoint directory in the checkpoint_callback variable.
+- Batch Size: Set the batch size in the batch_size variable.
+- Number of Epochs: Set the number of epochs in the max_epochs variable.
+- Early Stopping: Set the early stopping patience in the early_stop_callback variable.
+- Model Checkpointing: Set the model checkpoint directory in the checkpoint_callback variable.
 
 
 ## Results
