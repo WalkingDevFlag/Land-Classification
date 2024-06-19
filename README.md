@@ -20,6 +20,8 @@ This project aims to develop a deep learning model for land segmentation using s
 
 The dataset consists of satellite images and their corresponding segmentation masks, organized into images and mask directories. The class definitions are stored in a 'class_dict.csv' file.
 
+I've used the DeepGlobe Land-Cover Dataset
+
 
 ## Model Architecture
 The project uses a U-Net model with an EfficientNet-B7 encoder, pretrained on ImageNet. The model is trained to predict the segmentation masks for the input images.
