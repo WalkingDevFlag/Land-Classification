@@ -22,7 +22,7 @@ The dataset consists of satellite images and their corresponding segmentation ma
 
 I've used the DeepGlobe Land-Cover Dataset. I separated the images in the `train` folder into 2 folders, `Images` and `Masks`
 
-Link to the Dataset -> https://www.kaggle.com/datasets/balraj98/deepglobe-land-cover-classification-dataset
+Link to the Dataset -> [DeepGlobe Land Cover Classification Dataset](https://www.kaggle.com/datasets/balraj98/deepglobe-land-cover-classification-dataset)
 
 
 ## Model Architecture
